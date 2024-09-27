@@ -5,3 +5,4 @@ docs/
 *.xlsx
 *.csv
 /.quarto/
+_freeze/
