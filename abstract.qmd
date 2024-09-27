@@ -1,0 +1,35 @@
+---
+title: Example abstract title
+subtitle: Example abstract subtitle
+author: Example abstract author
+affiliation: Example affiliation
+date: today
+execute: 
+  eval: false
+---
+
+Please remember to change `eval` to true when you're ready to run this code.
+
+```{r}
+#| label: prep
+
+
+
+# Loads all required packages, scripts, and datasets
+source("R/")
+source("scripts/")
+readRDS("data/")
+
+# Sets specific document-wide options
+options(stringsAsFactors = FALSE, digits = 2)
+```
+
+# Rationale
+
+# Aims
+
+# Methods
+
+# Results
+
+# Conclusions
