@@ -1,0 +1,7 @@
+.history/
+raw/
+docs/
+*.RDS
+*.xlsx
+*.csv
+/.quarto/

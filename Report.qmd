@@ -1,0 +1,12 @@
+---
+title: Example title
+subtitle: Example subtitle
+author: Example author
+affiliation: Example affiliation
+date: today
+---
+
+
+```{r}
+
+```

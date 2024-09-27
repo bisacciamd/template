@@ -1,0 +1,13 @@
+project:
+  type: default
+  output-dir: docs
+format:
+  html:
+    theme: light
+    toc: true
+    toc-location: left
+execute: 
+  freeze: true
+  warning: false
+  echo: false
+  error: false
